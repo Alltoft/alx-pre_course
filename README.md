@@ -1,4 +1,3 @@
 0x03-git
 README.md
 bn
-ghp@_OhDix3qLAQZ56WRFreGpibMtqtQEgE2JBRFr
